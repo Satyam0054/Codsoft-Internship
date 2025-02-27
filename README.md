@@ -13,10 +13,16 @@ CSS – Styling and responsiveness
 JavaScript – Interactive elements
 
 ✨ Features
+
 ✔️ Modern and responsive design
+
 ✔️ Smooth animations and transitions
+
 ✔️ Navigation bar with active state
+
 ✔️ About section with skills and experience
+
 ✔️ Projects showcase section
+
 ✔️ Contact form
 
